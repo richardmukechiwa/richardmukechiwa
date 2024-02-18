@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Mukechiwa
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning data analysis online, and I am also a member of a community called Trend Labs. My mentor is Tom Mitchell.
+- 👀 I’m interested in Data Analysis I have started working on my project portfolio.
+- 🌱 I have a banking background. 
 - 📫 How to reach me mukechiwarichard@gmail.com 
 
