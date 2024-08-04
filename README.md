@@ -8,5 +8,7 @@ I have a strong interest in turning data into actionable insights and solving co
 
 #### Get in Touch
 📫 Email: mukechiwarichard@gmail.com
-LinkedIn: Richard Mukechiwa
+
+LinkedIn: www.linkedin.com/in/richardmukechiwa
+
 I’m always excited to connect with fellow data enthusiasts and professionals. Don’t hesitate to reach out for collaborations, discussions, or any queries you might have!
