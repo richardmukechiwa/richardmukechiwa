@@ -18,7 +18,7 @@ I am Richard Mukechiwa, a passionate data scientist from Zimbabwe with expertise
 
 **Version Control & Collaboration:** Git, GitHub, Jupyter Notebooks
 
-**Cloud: AWS (S3, EC2)**
+**Cloud: AWS**
 
 ## **Featured Projects**
 
